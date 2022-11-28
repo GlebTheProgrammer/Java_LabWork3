@@ -1,0 +1,32 @@
+<?xml version = "1.0"?>
+<class>
+    <student rollno = "241">
+        <name>Glebyshka</name>
+        <surname>Sukristik</surname>
+        <lastname>Mikhailovich</lastname>
+        <birthday>15/04/2003</birthday>
+        <group>051004</group>
+        <id>123</id>
+        <role>user</role>
+    </student>
+
+    <student rollno = "408">
+        <name>Vladislav</name>
+        <surname>Belaz</surname>
+        <lastname>Kovalev</lastname>
+        <birthday>11/08/1991</birthday>
+        <group>351006</group>
+        <id>124</id>
+        <role>user</role>
+    </student>
+
+    <student rollno = "293">
+        <name>Marif</name>
+        <surname>Pirania</surname>
+        <lastname>Piraev</lastname>
+        <birthday>10/11/1986</birthday>
+        <group>051003</group>
+        <id>125</id>
+        <role>user</role>
+    </student>
+</class>
